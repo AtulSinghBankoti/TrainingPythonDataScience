@@ -1,0 +1,6 @@
+Hello from Python FILE IO!!!! 
+This is new line! 
+-----------------------------------------
+I need new line explicitly!!!! 
+How will be be written? 
+Check me now!!!!

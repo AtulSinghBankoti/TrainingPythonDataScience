@@ -1,0 +1,21 @@
+Python Ecosystem:
+
+1. Web App Dev -> Django/Flask
+
+2. Data Science and Machine Learning -> Pandas, SciKit, Tensor Flow
+
+3. Scientific & Numerical Computing -> SciPy
+
+4. GUI Apps Dev -> Tkinter, wxPython
+
+Python Characteristics:
+
+1. Easy to read
+
+2. Interpreted Language
+
+3. Strong support for libraries!
+
+4. Opensource
+
+5. Object Oriented!
